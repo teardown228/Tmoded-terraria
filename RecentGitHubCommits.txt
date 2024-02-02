@@ -1,0 +1,10 @@
+db79f6a2e3a979bdbb8806f10c51386da30f45a4 Fix exception causing UI issue when publishing new mod
+d08a60737e123fe10b47bf62cc4dd197a8be47b8 Made content file casing fixes work on Unix too. (#4002)
+b5e31cbae6119d1597c7dbe4a08cad64cce7c174 Check outer types for PreJITFilter attributes and improve error messages (#4033)
+13080f3e360153db0fb037777330eba7fef053d9 Make type 0 entities inactive in SetDefaults and TurnToAir (#4032)
+1adb122cbe0063e35c68cec3919259bf38c668f5 Added fallbacks for assumed GOG default paths, Fix #3526 (#4018)
+35bd8021d9399588c9f0edac9f36024383f4706a Automatically switch to x86 architecture when Rosetta is present (#4017)
+0c8af3289003167ac89be34a80e3f3bb5427ceda Fix language packs don't work issue (#2617)
+ed6a2643fc43eee157b57035169579b3ccdb7c21 Prevent Recalculate spam with ModMenu.UserInterface.
+703dfb865006525d7d5c309dc0dc1045fc0462f8 Fixed #4007 (Delete Mod modal is bugged)
+3261d1d1b89d69b73c2651515b4aa86ab7e14f15 Fixed NuGet lib folder casing (#3965 patch [1/2])

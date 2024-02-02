@@ -1,0 +1,6 @@
+10.01.2024 15:15:25
+System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
+   at System.IO.BinaryReader.ReadByte()
+   at Terraria.Map.MapHelper.LoadMapVersion2(BinaryReader fileIO, Int32 release) in tModLoader\Terraria\Map\MapHelper.cs:line 3089
+   at Terraria.Map.WorldMap.Load() in tModLoader\Terraria\Map\WorldMap.cs:line 103
+
